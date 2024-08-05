@@ -5,7 +5,7 @@ import Header from '../../components/common/Header';
 const About = () => {
     return (
         <>
-            <Header />
+            {/* <Header /> */}
             <main>About Page</main>
         </>
     );

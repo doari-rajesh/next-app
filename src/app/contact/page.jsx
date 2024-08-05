@@ -5,7 +5,7 @@ import Header from '../../components/common/Header';
 const Contact = () => {
     return (
         <>
-            <Header />
+            {/* <Header /> */}
             <main>Contact Page</main>
         </>
     );
